@@ -1,4 +1,4 @@
-package com.example.treeapp
+package com.example.treeapp.domain
 
 data class Node (
     val name: String,
