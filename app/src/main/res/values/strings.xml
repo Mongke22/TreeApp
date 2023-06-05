@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">TreeApp</string>
+    <string name="name_example">123fsdji234</string>
+    <string name="children_count_example">5</string>
 </resources>
